@@ -8,15 +8,15 @@ The analysis is performed on a structured agricultural dataset containing soil n
 
 Objectives:
 
-To explore and understand soil and weather data affecting crop growth
+•To explore and understand soil and weather data affecting crop growth
 
-To clean and preprocess agricultural datasets
+•To clean and preprocess agricultural datasets
 
-To analyze statistical properties and correlations among features
+•To analyze statistical properties and correlations among features
 
-To visualize data distributions and inter-relationships
+•To visualize data distributions and inter-relationships
 
-To gain insights useful for crop recommendation systems
+•To gain insights useful for crop recommendation systems
 
 Dataset Description:
 
